@@ -80,6 +80,7 @@ body::before {
   height: 44px;
   width: auto;
   display: block;
+  mix-blend-mode: lighten;
   transition: opacity 0.2s;
 }
 
@@ -90,6 +91,13 @@ body::before {
 .logo-img--footer {
   height: 36px;
 }
+
+
+
+
+
+
+
 
 .nav-links {
   display: flex;
